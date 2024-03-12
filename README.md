@@ -45,5 +45,5 @@ This project explores and detects outliers in univariate and multivariate signal
 
 ## Contributions
 
-We welcome contributions to improve the project.
+This Project is made by team pf Vaibhav,Tarun and Anjali . We welcome contributions to improve the project.
 
